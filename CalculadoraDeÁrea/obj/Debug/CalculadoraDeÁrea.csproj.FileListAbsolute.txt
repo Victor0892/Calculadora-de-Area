@@ -1,0 +1,10 @@
+C:\Users\victo\OneDrive\Documentos\Visual Studio (Projetos)\CalculadoraDeÁrea\CalculadoraDeÁrea\obj\Debug\CalculadoraDeÁrea.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documentos\Visual Studio (Projetos)\CalculadoraDeÁrea\CalculadoraDeÁrea\obj\Debug\CalculadoraDeÁrea.Properties.Resources.resources
+C:\Users\victo\OneDrive\Documentos\Visual Studio (Projetos)\CalculadoraDeÁrea\CalculadoraDeÁrea\obj\Debug\CalculadoraDeÁrea.csproj.GenerateResource.cache
+C:\Users\victo\OneDrive\Documentos\Visual Studio (Projetos)\CalculadoraDeÁrea\CalculadoraDeÁrea\obj\Debug\CalculadoraDeÁrea.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documentos\Visual Studio (Projetos)\CalculadoraDeÁrea\CalculadoraDeÁrea\bin\Debug\CalculadoraDeÁrea.exe.config
+C:\Users\victo\OneDrive\Documentos\Visual Studio (Projetos)\CalculadoraDeÁrea\CalculadoraDeÁrea\bin\Debug\CalculadoraDeÁrea.exe
+C:\Users\victo\OneDrive\Documentos\Visual Studio (Projetos)\CalculadoraDeÁrea\CalculadoraDeÁrea\bin\Debug\CalculadoraDeÁrea.pdb
+C:\Users\victo\OneDrive\Documentos\Visual Studio (Projetos)\CalculadoraDeÁrea\CalculadoraDeÁrea\obj\Debug\CalculadoraDeÁrea.exe
+C:\Users\victo\OneDrive\Documentos\Visual Studio (Projetos)\CalculadoraDeÁrea\CalculadoraDeÁrea\obj\Debug\CalculadoraDeÁrea.pdb
+C:\Users\victo\OneDrive\Documentos\Visual Studio (Projetos)\CalculadoraDeÁrea\CalculadoraDeÁrea\obj\Debug\CalculadoraDeÁrea.FrmCalculadoraDeÁrea.resources
